@@ -1,0 +1,36 @@
+body {
+    font-family: consolas;
+    font-size: 80%;
+    background-color: rgb(171, 121, 171);
+    padding: 5% 10%;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    margin: 1rem auto;
+}
+
+img.full-width {
+    max-width: 100%;
+}
+
+ul {
+    list-style: none;
+    text-align: left;
+    padding-left: 47%;
+}
+
+nav a {
+    padding: 3rem 1rem;
+    text-decoration: none;
+    color: white;
+}
+
+.banner {
+    border: 3px solid rgb(252, 252, 252);
+    background-color: rgb(255, 225, 249);
+    color: rgb(90, 85, 85);
+    margin: 1rem auto;
+    padding: 1rem;
+}
